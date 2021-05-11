@@ -1,5 +1,5 @@
 # ShortenerFox
 
-ShortenerFox Is A URL Shortening Service And The Link Management Platform.
+ShortenerFox is a Website URL & File URL Shortening Service.
 
-![Screenshot](/screenshots/screenshot.png)
+![Screenshot](/screenshots/home_page.png)
