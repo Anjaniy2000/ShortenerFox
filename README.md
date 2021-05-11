@@ -5,7 +5,7 @@ You Can Shorten Any Long Website URLs & File URLs.
 
 ![Screenshot](/screenshots/home_page.png)
 
-1.Website URL Shorten:
+1. Website URL Shorten:
 
 ![Screenshot](/screenshots/website_url_shorten/website_url_shorten.png)
 
@@ -15,7 +15,7 @@ You Can Shorten Any Long Website URLs & File URLs.
 
 ![Screenshot](/screenshots/website_url_shorten/actual_long_link.png)
 
-2.File URL Shorten:
+2. File URL Shorten:
 
 ![Screenshot](/screenshots/file_url_shorten/file_url_shorten.png)
 
