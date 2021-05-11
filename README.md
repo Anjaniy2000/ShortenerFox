@@ -1,7 +1,7 @@
 # ShortenerFox
 
-ShortenerFox is a Website URL & File URL Shortening Service.
-You Can Shorten Any Long Website URLs & File URLs.
+<h2>ShortenerFox is a Website URL & File URL Shortening Service.
+You Can Shorten Any Long Website URLs & File URLs.</h2>
 
 ![Screenshot](/screenshots/home_page.png)
 
