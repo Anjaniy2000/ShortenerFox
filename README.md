@@ -14,3 +14,13 @@ You Can Shorten Any Long Website URLs & File URLs.
 ![Screenshot](/screenshots/website_url_shorten/copy_paste_shorten_link.png)
 
 ![Screenshot](/screenshots/website_url_shorten/actual_long_link.png)
+
+2.File URL Shorten:
+
+![Screenshot](/screenshots/file_url_shorten/file_url_shorten.png)
+
+![Screenshot](/screenshots/file_url_shorten/shorten_link_file.png)
+
+![Screenshot](/screenshots/file_url_shorten/copy_paste_shorten_file_url.png)
+
+![Screenshot](/screenshots/file_url_shorten/actual_long_file_url.png)
